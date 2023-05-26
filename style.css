@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    font-family: 'Pangolin', cursive;
+}
+
+
+body{
+    background-color: antiquewhite;
+    margin: 50px 75px 75px 75px;
+    max-width: 1280px; /*largura maxima*/
+    min-width: 250px;
+    max-height: 40px; /*altura maxima*/
+    min-height: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+input[type="text"]{
+    width: 200px; /*largura*/
+    height: 25px;
+    border-radius: 5rem;
+}
+
+input[type="submit"]{
+    width: 45px; /*largura*/
+    height: 25px; /*altura*/
+}
+
+#div2{
+    margin: 100px 0px 0px 0px;
+}
+
+
+.frase{
+    color:rgb(255, 96, 202);
+    font-size: 25px;
+    background-color: rgb(147, 255, 255);
+    border-radius: 1rem;
+}
+
+footer{
+    text-align: justify;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+}
