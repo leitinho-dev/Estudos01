@@ -17,18 +17,22 @@ body{
     min-height: 20px;
 }
 
-header{
+#cabeca2{
 
     position: fixed;
-    font-size: 25px;
-    margin: -150px 0px 0px 0px;
+    /*font-size: 25px;*/
+    margin: -150px 0px 0px -140px;
     background-color: rgba(141, 141, 141, 0.212);
-    border-radius: 1rem;
-    padding: 0px 1280px 0px 0px;
+    /*border-radius: 1rem;*/
+    padding: 25px 2000px 0px 0px;
     
 }
 
-
+#cabeca1{
+    position: fixed;
+    margin: -150px 0px 0px 120px;
+    text-align: center;
+}
 
 input[type="text"]{
     width: 200px; /*largura*/
