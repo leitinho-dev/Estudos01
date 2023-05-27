@@ -28,9 +28,9 @@ body{
     
 }
 
-#cabeca1{
-    position: fixed;
-    margin: -150px 0px 0px 120px;
+.c1{
+    /*position: fixed;
+    /*margin: -150px 0px 0px 120px;*/
     text-align: center;
 }
 
